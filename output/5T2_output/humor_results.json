@@ -1,0 +1,2417 @@
+[
+  {
+    "line_number": 1,
+    "response": "1,5"
+  },
+  {
+    "line_number": 2,
+    "response": "1,5"
+  },
+  {
+    "line_number": 3,
+    "response": "1,5"
+  },
+  {
+    "line_number": 4,
+    "response": "1,5"
+  },
+  {
+    "line_number": 5,
+    "response": "1,5"
+  },
+  {
+    "line_number": 6,
+    "response": "1,5"
+  },
+  {
+    "line_number": 7,
+    "response": "1,5"
+  },
+  {
+    "line_number": 8,
+    "response": "3,5"
+  },
+  {
+    "line_number": 9,
+    "response": "1,5"
+  },
+  {
+    "line_number": 10,
+    "response": "1,5"
+  },
+  {
+    "line_number": 11,
+    "response": "1,5"
+  },
+  {
+    "line_number": 12,
+    "response": "1,3"
+  },
+  {
+    "line_number": 13,
+    "response": "1,5"
+  },
+  {
+    "line_number": 14,
+    "response": "1,5"
+  },
+  {
+    "line_number": 15,
+    "response": "1,5"
+  },
+  {
+    "line_number": 16,
+    "response": "3,5"
+  },
+  {
+    "line_number": 17,
+    "response": "1,5"
+  },
+  {
+    "line_number": 18,
+    "response": "1,5"
+  },
+  {
+    "line_number": 19,
+    "response": "1,4"
+  },
+  {
+    "line_number": 20,
+    "response": "1,5"
+  },
+  {
+    "line_number": 21,
+    "response": "3,5"
+  },
+  {
+    "line_number": 22,
+    "response": "1,5"
+  },
+  {
+    "line_number": 23,
+    "response": "3,4"
+  },
+  {
+    "line_number": 24,
+    "response": "1,5"
+  },
+  {
+    "line_number": 25,
+    "response": "1,5"
+  },
+  {
+    "line_number": 26,
+    "response": "1,4"
+  },
+  {
+    "line_number": 27,
+    "response": "1,5"
+  },
+  {
+    "line_number": 28,
+    "response": "1,3"
+  },
+  {
+    "line_number": 29,
+    "response": "1,5"
+  },
+  {
+    "line_number": 30,
+    "response": "1,5"
+  },
+  {
+    "line_number": 31,
+    "response": "1,5"
+  },
+  {
+    "line_number": 32,
+    "response": "1,4"
+  },
+  {
+    "line_number": 33,
+    "response": "1,4"
+  },
+  {
+    "line_number": 34,
+    "response": "1,5"
+  },
+  {
+    "line_number": 35,
+    "response": "1,3"
+  },
+  {
+    "line_number": 36,
+    "response": "1,5"
+  },
+  {
+    "line_number": 37,
+    "response": "1,3"
+  },
+  {
+    "line_number": 38,
+    "response": "1,4"
+  },
+  {
+    "line_number": 39,
+    "response": "1,5"
+  },
+  {
+    "line_number": 40,
+    "response": "1,3"
+  },
+  {
+    "line_number": 41,
+    "response": "3,5"
+  },
+  {
+    "line_number": 42,
+    "response": "1,3"
+  },
+  {
+    "line_number": 43,
+    "response": "3,5"
+  },
+  {
+    "line_number": 44,
+    "response": "1,4"
+  },
+  {
+    "line_number": 45,
+    "response": "1,5"
+  },
+  {
+    "line_number": 46,
+    "response": "1,5"
+  },
+  {
+    "line_number": 47,
+    "response": "1,5"
+  },
+  {
+    "line_number": 48,
+    "response": "1,5"
+  },
+  {
+    "line_number": 49,
+    "response": "1,4"
+  },
+  {
+    "line_number": 50,
+    "response": "1,5"
+  },
+  {
+    "line_number": 51,
+    "response": "1,4"
+  },
+  {
+    "line_number": 52,
+    "response": "1,5"
+  },
+  {
+    "line_number": 53,
+    "response": "1,5"
+  },
+  {
+    "line_number": 54,
+    "response": "1,5"
+  },
+  {
+    "line_number": 55,
+    "response": "1,5"
+  },
+  {
+    "line_number": 56,
+    "response": "1,5"
+  },
+  {
+    "line_number": 57,
+    "response": "1,3"
+  },
+  {
+    "line_number": 58,
+    "response": "3,5"
+  },
+  {
+    "line_number": 59,
+    "response": "1,3"
+  },
+  {
+    "line_number": 60,
+    "response": "1,5"
+  },
+  {
+    "line_number": 61,
+    "response": "1,3"
+  },
+  {
+    "line_number": 62,
+    "response": "1,5"
+  },
+  {
+    "line_number": 63,
+    "response": "1,5"
+  },
+  {
+    "line_number": 64,
+    "response": "1,5"
+  },
+  {
+    "line_number": 65,
+    "response": "3,5"
+  },
+  {
+    "line_number": 66,
+    "response": "3,5"
+  },
+  {
+    "line_number": 67,
+    "response": "1,5"
+  },
+  {
+    "line_number": 68,
+    "response": "1,3"
+  },
+  {
+    "line_number": 69,
+    "response": "1,5"
+  },
+  {
+    "line_number": 70,
+    "response": "3,5"
+  },
+  {
+    "line_number": 71,
+    "response": "1,5"
+  },
+  {
+    "line_number": 72,
+    "response": "1,3"
+  },
+  {
+    "line_number": 73,
+    "response": "1,5"
+  },
+  {
+    "line_number": 74,
+    "response": "1,5"
+  },
+  {
+    "line_number": 75,
+    "response": "1,5"
+  },
+  {
+    "line_number": 76,
+    "response": "1,5"
+  },
+  {
+    "line_number": 77,
+    "response": "1,5"
+  },
+  {
+    "line_number": 78,
+    "response": "1,3"
+  },
+  {
+    "line_number": 79,
+    "response": "1,5"
+  },
+  {
+    "line_number": 80,
+    "response": "1,5"
+  },
+  {
+    "line_number": 81,
+    "response": "1,3"
+  },
+  {
+    "line_number": 82,
+    "response": "1,3"
+  },
+  {
+    "line_number": 83,
+    "response": "1,5"
+  },
+  {
+    "line_number": 84,
+    "response": "1,5"
+  },
+  {
+    "line_number": 85,
+    "response": "1,5"
+  },
+  {
+    "line_number": 86,
+    "response": "1,4"
+  },
+  {
+    "line_number": 87,
+    "response": "1,4"
+  },
+  {
+    "line_number": 88,
+    "response": "3,5"
+  },
+  {
+    "line_number": 89,
+    "response": "1,5"
+  },
+  {
+    "line_number": 90,
+    "response": "1,3"
+  },
+  {
+    "line_number": 91,
+    "response": "3,4"
+  },
+  {
+    "line_number": 92,
+    "response": "1,3"
+  },
+  {
+    "line_number": 93,
+    "response": "1,4"
+  },
+  {
+    "line_number": 94,
+    "response": "1,5"
+  },
+  {
+    "line_number": 95,
+    "response": "1,5"
+  },
+  {
+    "line_number": 96,
+    "response": "1,3"
+  },
+  {
+    "line_number": 97,
+    "response": "1,3"
+  },
+  {
+    "line_number": 98,
+    "response": "3,5"
+  },
+  {
+    "line_number": 99,
+    "response": "1,3"
+  },
+  {
+    "line_number": 100,
+    "response": "1,3"
+  },
+  {
+    "line_number": 101,
+    "response": "1,3"
+  },
+  {
+    "line_number": 102,
+    "response": "1,3"
+  },
+  {
+    "line_number": 103,
+    "response": "1,5"
+  },
+  {
+    "line_number": 104,
+    "response": "1,5"
+  },
+  {
+    "line_number": 105,
+    "response": "1,5"
+  },
+  {
+    "line_number": 106,
+    "response": "3,5"
+  },
+  {
+    "line_number": 107,
+    "response": "1,5"
+  },
+  {
+    "line_number": 108,
+    "response": "1,5"
+  },
+  {
+    "line_number": 109,
+    "response": "1,5"
+  },
+  {
+    "line_number": 110,
+    "response": "1,5"
+  },
+  {
+    "line_number": 111,
+    "response": "1,5"
+  },
+  {
+    "line_number": 112,
+    "response": "1,3"
+  },
+  {
+    "line_number": 113,
+    "response": "1,4"
+  },
+  {
+    "line_number": 114,
+    "response": "1,3"
+  },
+  {
+    "line_number": 115,
+    "response": "1,5"
+  },
+  {
+    "line_number": 116,
+    "response": "1,3"
+  },
+  {
+    "line_number": 117,
+    "response": "1,3"
+  },
+  {
+    "line_number": 118,
+    "response": "1,5"
+  },
+  {
+    "line_number": 119,
+    "response": "1,3"
+  },
+  {
+    "line_number": 120,
+    "response": "1,5"
+  },
+  {
+    "line_number": 121,
+    "response": "1,5"
+  },
+  {
+    "line_number": 122,
+    "response": "1,5"
+  },
+  {
+    "line_number": 123,
+    "response": "1,5"
+  },
+  {
+    "line_number": 124,
+    "response": "1,4"
+  },
+  {
+    "line_number": 125,
+    "response": "1,4"
+  },
+  {
+    "line_number": 126,
+    "response": "1,5"
+  },
+  {
+    "line_number": 127,
+    "response": "1,3"
+  },
+  {
+    "line_number": 128,
+    "response": "1,5"
+  },
+  {
+    "line_number": 129,
+    "response": "1,5"
+  },
+  {
+    "line_number": 130,
+    "response": "1,3"
+  },
+  {
+    "line_number": 131,
+    "response": "1,5"
+  },
+  {
+    "line_number": 132,
+    "response": "1,3"
+  },
+  {
+    "line_number": 133,
+    "response": "1,5"
+  },
+  {
+    "line_number": 134,
+    "response": "1,5"
+  },
+  {
+    "line_number": 135,
+    "response": "1,5"
+  },
+  {
+    "line_number": 136,
+    "response": "1,3"
+  },
+  {
+    "line_number": 137,
+    "response": "1,5"
+  },
+  {
+    "line_number": 138,
+    "response": "1,3"
+  },
+  {
+    "line_number": 139,
+    "response": "1,5"
+  },
+  {
+    "line_number": 140,
+    "response": "1,5"
+  },
+  {
+    "line_number": 141,
+    "response": "1,5"
+  },
+  {
+    "line_number": 142,
+    "response": "1,4"
+  },
+  {
+    "line_number": 143,
+    "response": "1,5"
+  },
+  {
+    "line_number": 144,
+    "response": "1,5"
+  },
+  {
+    "line_number": 145,
+    "response": "1,5"
+  },
+  {
+    "line_number": 146,
+    "response": "1,5"
+  },
+  {
+    "line_number": 147,
+    "response": "1,5"
+  },
+  {
+    "line_number": 148,
+    "response": "1,5"
+  },
+  {
+    "line_number": 149,
+    "response": "1,5"
+  },
+  {
+    "line_number": 150,
+    "response": "1,5"
+  },
+  {
+    "line_number": 151,
+    "response": "1,5"
+  },
+  {
+    "line_number": 152,
+    "response": "3,5"
+  },
+  {
+    "line_number": 153,
+    "response": "1,5"
+  },
+  {
+    "line_number": 154,
+    "response": "1,5"
+  },
+  {
+    "line_number": 155,
+    "response": "1,5"
+  },
+  {
+    "line_number": 156,
+    "response": "1,5"
+  },
+  {
+    "line_number": 157,
+    "response": "1,5"
+  },
+  {
+    "line_number": 158,
+    "response": "1,5"
+  },
+  {
+    "line_number": 159,
+    "response": "1,4"
+  },
+  {
+    "line_number": 160,
+    "response": "1,3"
+  },
+  {
+    "line_number": 161,
+    "response": "1,5"
+  },
+  {
+    "line_number": 162,
+    "response": "1,5"
+  },
+  {
+    "line_number": 163,
+    "response": "1,5"
+  },
+  {
+    "line_number": 164,
+    "response": "1,5"
+  },
+  {
+    "line_number": 165,
+    "response": "3,5"
+  },
+  {
+    "line_number": 166,
+    "response": "3,5"
+  },
+  {
+    "line_number": 167,
+    "response": "1,5"
+  },
+  {
+    "line_number": 168,
+    "response": "1,3"
+  },
+  {
+    "line_number": 169,
+    "response": "1,5"
+  },
+  {
+    "line_number": 170,
+    "response": "1,5"
+  },
+  {
+    "line_number": 171,
+    "response": "3,5"
+  },
+  {
+    "line_number": 172,
+    "response": "1,3"
+  },
+  {
+    "line_number": 173,
+    "response": "1,5"
+  },
+  {
+    "line_number": 174,
+    "response": "1,5"
+  },
+  {
+    "line_number": 175,
+    "response": "1,5"
+  },
+  {
+    "line_number": 176,
+    "response": "3,5"
+  },
+  {
+    "line_number": 177,
+    "response": "1,5"
+  },
+  {
+    "line_number": 178,
+    "response": "1,5"
+  },
+  {
+    "line_number": 179,
+    "response": "1,3"
+  },
+  {
+    "line_number": 180,
+    "response": "1,5"
+  },
+  {
+    "line_number": 181,
+    "response": "1,5"
+  },
+  {
+    "line_number": 182,
+    "response": "1,4"
+  },
+  {
+    "line_number": 183,
+    "response": "1,5"
+  },
+  {
+    "line_number": 184,
+    "response": "1,5"
+  },
+  {
+    "line_number": 185,
+    "response": "1,5"
+  },
+  {
+    "line_number": 186,
+    "response": "1,4"
+  },
+  {
+    "line_number": 187,
+    "response": "1,5"
+  },
+  {
+    "line_number": 188,
+    "response": "1,3"
+  },
+  {
+    "line_number": 189,
+    "response": "1,5"
+  },
+  {
+    "line_number": 190,
+    "response": "1,5"
+  },
+  {
+    "line_number": 191,
+    "response": "1,5"
+  },
+  {
+    "line_number": 192,
+    "response": "1,5"
+  },
+  {
+    "line_number": 193,
+    "response": "1,3"
+  },
+  {
+    "line_number": 194,
+    "response": "1,5"
+  },
+  {
+    "line_number": 195,
+    "response": "1,5"
+  },
+  {
+    "line_number": 196,
+    "response": "1,5"
+  },
+  {
+    "line_number": 197,
+    "response": "1,5"
+  },
+  {
+    "line_number": 198,
+    "response": "1,5"
+  },
+  {
+    "line_number": 199,
+    "response": "1,5"
+  },
+  {
+    "line_number": 200,
+    "response": "1,5"
+  },
+  {
+    "line_number": 201,
+    "response": "1,3"
+  },
+  {
+    "line_number": 202,
+    "response": "1,5"
+  },
+  {
+    "line_number": 203,
+    "response": "1,5"
+  },
+  {
+    "line_number": 204,
+    "response": "1,3"
+  },
+  {
+    "line_number": 205,
+    "response": "1,5"
+  },
+  {
+    "line_number": 206,
+    "response": "1,3"
+  },
+  {
+    "line_number": 207,
+    "response": "1,5"
+  },
+  {
+    "line_number": 208,
+    "response": "1,5"
+  },
+  {
+    "line_number": 209,
+    "response": "3,5"
+  },
+  {
+    "line_number": 210,
+    "response": "1,5"
+  },
+  {
+    "line_number": 211,
+    "response": "1,5"
+  },
+  {
+    "line_number": 212,
+    "response": "3,5"
+  },
+  {
+    "line_number": 213,
+    "response": "1,5"
+  },
+  {
+    "line_number": 214,
+    "response": "1,5"
+  },
+  {
+    "line_number": 215,
+    "response": "1,3"
+  },
+  {
+    "line_number": 216,
+    "response": "1,3"
+  },
+  {
+    "line_number": 217,
+    "response": "1,5"
+  },
+  {
+    "line_number": 218,
+    "response": "1,5"
+  },
+  {
+    "line_number": 219,
+    "response": "1,4"
+  },
+  {
+    "line_number": 220,
+    "response": "1,3"
+  },
+  {
+    "line_number": 221,
+    "response": "1,3"
+  },
+  {
+    "line_number": 222,
+    "response": "1,5"
+  },
+  {
+    "line_number": 223,
+    "response": "1,5"
+  },
+  {
+    "line_number": 224,
+    "response": "1,3"
+  },
+  {
+    "line_number": 225,
+    "response": "1,3"
+  },
+  {
+    "line_number": 226,
+    "response": "1,5"
+  },
+  {
+    "line_number": 227,
+    "response": "1,3"
+  },
+  {
+    "line_number": 228,
+    "response": "3,5"
+  },
+  {
+    "line_number": 229,
+    "response": "1,5"
+  },
+  {
+    "line_number": 230,
+    "response": "1,5"
+  },
+  {
+    "line_number": 231,
+    "response": "1,5"
+  },
+  {
+    "line_number": 232,
+    "response": "1,3"
+  },
+  {
+    "line_number": 233,
+    "response": "1,3"
+  },
+  {
+    "line_number": 234,
+    "response": "3,4"
+  },
+  {
+    "line_number": 235,
+    "response": "1,5"
+  },
+  {
+    "line_number": 236,
+    "response": "1,5"
+  },
+  {
+    "line_number": 237,
+    "response": "1,5"
+  },
+  {
+    "line_number": 238,
+    "response": "1,5"
+  },
+  {
+    "line_number": 239,
+    "response": "1,5"
+  },
+  {
+    "line_number": 240,
+    "response": "1,5"
+  },
+  {
+    "line_number": 241,
+    "response": "1,5"
+  },
+  {
+    "line_number": 242,
+    "response": "1,5"
+  },
+  {
+    "line_number": 243,
+    "response": "1,3"
+  },
+  {
+    "line_number": 244,
+    "response": "1,5"
+  },
+  {
+    "line_number": 245,
+    "response": "1,5"
+  },
+  {
+    "line_number": 246,
+    "response": "1,3"
+  },
+  {
+    "line_number": 247,
+    "response": "1,5"
+  },
+  {
+    "line_number": 248,
+    "response": "1,5"
+  },
+  {
+    "line_number": 249,
+    "response": "1,5"
+  },
+  {
+    "line_number": 250,
+    "response": "1,3"
+  },
+  {
+    "line_number": 251,
+    "response": "1,5"
+  },
+  {
+    "line_number": 252,
+    "response": "1,5"
+  },
+  {
+    "line_number": 253,
+    "response": "1,5"
+  },
+  {
+    "line_number": 254,
+    "response": "1,3"
+  },
+  {
+    "line_number": 255,
+    "response": "1,5"
+  },
+  {
+    "line_number": 256,
+    "response": "1,3"
+  },
+  {
+    "line_number": 257,
+    "response": "1,5"
+  },
+  {
+    "line_number": 258,
+    "response": "3,5"
+  },
+  {
+    "line_number": 259,
+    "response": "1,5"
+  },
+  {
+    "line_number": 260,
+    "response": "1,5"
+  },
+  {
+    "line_number": 261,
+    "response": "1,3"
+  },
+  {
+    "line_number": 262,
+    "response": "1,3"
+  },
+  {
+    "line_number": 263,
+    "response": "1,3"
+  },
+  {
+    "line_number": 264,
+    "response": "1,5"
+  },
+  {
+    "line_number": 265,
+    "response": "1,5"
+  },
+  {
+    "line_number": 266,
+    "response": "1,5"
+  },
+  {
+    "line_number": 267,
+    "response": "1,3"
+  },
+  {
+    "line_number": 268,
+    "response": "1,3"
+  },
+  {
+    "line_number": 269,
+    "response": "1,5"
+  },
+  {
+    "line_number": 270,
+    "response": "1,3"
+  },
+  {
+    "line_number": 271,
+    "response": "1,4"
+  },
+  {
+    "line_number": 272,
+    "response": "1,3"
+  },
+  {
+    "line_number": 273,
+    "response": "1,3"
+  },
+  {
+    "line_number": 274,
+    "response": "1,3"
+  },
+  {
+    "line_number": 275,
+    "response": "3,5"
+  },
+  {
+    "line_number": 276,
+    "response": "1,5"
+  },
+  {
+    "line_number": 277,
+    "response": "1,4"
+  },
+  {
+    "line_number": 278,
+    "response": "3,5"
+  },
+  {
+    "line_number": 279,
+    "response": "3,4"
+  },
+  {
+    "line_number": 280,
+    "response": "3,5"
+  },
+  {
+    "line_number": 281,
+    "response": "3,5"
+  },
+  {
+    "line_number": 282,
+    "response": "1,3"
+  },
+  {
+    "line_number": 283,
+    "response": "1,3"
+  },
+  {
+    "line_number": 284,
+    "response": "1,5"
+  },
+  {
+    "line_number": 285,
+    "response": "3,5"
+  },
+  {
+    "line_number": 286,
+    "response": "3,5"
+  },
+  {
+    "line_number": 287,
+    "response": "1,5"
+  },
+  {
+    "line_number": 288,
+    "response": "1,5"
+  },
+  {
+    "line_number": 289,
+    "response": "1,3"
+  },
+  {
+    "line_number": 290,
+    "response": "1,3"
+  },
+  {
+    "line_number": 291,
+    "response": "1,5"
+  },
+  {
+    "line_number": 292,
+    "response": "1,5"
+  },
+  {
+    "line_number": 293,
+    "response": "1,3"
+  },
+  {
+    "line_number": 294,
+    "response": "1,5"
+  },
+  {
+    "line_number": 295,
+    "response": "1,5"
+  },
+  {
+    "line_number": 296,
+    "response": "1,3"
+  },
+  {
+    "line_number": 297,
+    "response": "1,4"
+  },
+  {
+    "line_number": 298,
+    "response": "3,5"
+  },
+  {
+    "line_number": 299,
+    "response": "1,3"
+  },
+  {
+    "line_number": 300,
+    "response": "1,5"
+  },
+  {
+    "line_number": 301,
+    "response": "1,5"
+  },
+  {
+    "line_number": 302,
+    "response": "1,5"
+  },
+  {
+    "line_number": 303,
+    "response": "1,5"
+  },
+  {
+    "line_number": 304,
+    "response": "1,5"
+  },
+  {
+    "line_number": 305,
+    "response": "1,3"
+  },
+  {
+    "line_number": 306,
+    "response": "3,5"
+  },
+  {
+    "line_number": 307,
+    "response": "1,3"
+  },
+  {
+    "line_number": 308,
+    "response": "1,5"
+  },
+  {
+    "line_number": 309,
+    "response": "1,5"
+  },
+  {
+    "line_number": 310,
+    "response": "1,5"
+  },
+  {
+    "line_number": 311,
+    "response": "1,3"
+  },
+  {
+    "line_number": 312,
+    "response": "1,5"
+  },
+  {
+    "line_number": 313,
+    "response": "1,3"
+  },
+  {
+    "line_number": 314,
+    "response": "1,5"
+  },
+  {
+    "line_number": 315,
+    "response": "1,3"
+  },
+  {
+    "line_number": 316,
+    "response": "1,3"
+  },
+  {
+    "line_number": 317,
+    "response": "1,3"
+  },
+  {
+    "line_number": 318,
+    "response": "1,3"
+  },
+  {
+    "line_number": 319,
+    "response": "1,5"
+  },
+  {
+    "line_number": 320,
+    "response": "1,5"
+  },
+  {
+    "line_number": 321,
+    "response": "1,5"
+  },
+  {
+    "line_number": 322,
+    "response": "1,5"
+  },
+  {
+    "line_number": 323,
+    "response": "1,5"
+  },
+  {
+    "line_number": 324,
+    "response": "1,5"
+  },
+  {
+    "line_number": 325,
+    "response": "1,3"
+  },
+  {
+    "line_number": 326,
+    "response": "1,3"
+  },
+  {
+    "line_number": 327,
+    "response": "1,3"
+  },
+  {
+    "line_number": 328,
+    "response": "1,5"
+  },
+  {
+    "line_number": 329,
+    "response": "1,5"
+  },
+  {
+    "line_number": 330,
+    "response": "1,5"
+  },
+  {
+    "line_number": 331,
+    "response": "1,5"
+  },
+  {
+    "line_number": 332,
+    "response": "1,5"
+  },
+  {
+    "line_number": 333,
+    "response": "3,5"
+  },
+  {
+    "line_number": 334,
+    "response": "1,5"
+  },
+  {
+    "line_number": 335,
+    "response": "3,5"
+  },
+  {
+    "line_number": 336,
+    "response": "3,5"
+  },
+  {
+    "line_number": 337,
+    "response": "1,5"
+  },
+  {
+    "line_number": 338,
+    "response": "1,5"
+  },
+  {
+    "line_number": 339,
+    "response": "3,5"
+  },
+  {
+    "line_number": 340,
+    "response": "1,5"
+  },
+  {
+    "line_number": 341,
+    "response": "1,5"
+  },
+  {
+    "line_number": 342,
+    "response": "1,3"
+  },
+  {
+    "line_number": 343,
+    "response": "1,3"
+  },
+  {
+    "line_number": 344,
+    "response": "1,5"
+  },
+  {
+    "line_number": 345,
+    "response": "1,3"
+  },
+  {
+    "line_number": 346,
+    "response": "1,3"
+  },
+  {
+    "line_number": 347,
+    "response": "3,5"
+  },
+  {
+    "line_number": 348,
+    "response": "1,3"
+  },
+  {
+    "line_number": 349,
+    "response": "1,5"
+  },
+  {
+    "line_number": 350,
+    "response": "1,3"
+  },
+  {
+    "line_number": 351,
+    "response": "1,4"
+  },
+  {
+    "line_number": 352,
+    "response": "1,5"
+  },
+  {
+    "line_number": 353,
+    "response": "1,5"
+  },
+  {
+    "line_number": 354,
+    "response": "1,5"
+  },
+  {
+    "line_number": 355,
+    "response": "1,5"
+  },
+  {
+    "line_number": 356,
+    "response": "1,5"
+  },
+  {
+    "line_number": 357,
+    "response": "1,5"
+  },
+  {
+    "line_number": 358,
+    "response": "1,5"
+  },
+  {
+    "line_number": 359,
+    "response": "1,5"
+  },
+  {
+    "line_number": 360,
+    "response": "3,5"
+  },
+  {
+    "line_number": 361,
+    "response": "1,5"
+  },
+  {
+    "line_number": 362,
+    "response": "1,5"
+  },
+  {
+    "line_number": 363,
+    "response": "1,5"
+  },
+  {
+    "line_number": 364,
+    "response": "1,3"
+  },
+  {
+    "line_number": 365,
+    "response": "1,5"
+  },
+  {
+    "line_number": 366,
+    "response": "1,5"
+  },
+  {
+    "line_number": 367,
+    "response": "3,5"
+  },
+  {
+    "line_number": 368,
+    "response": "3,5"
+  },
+  {
+    "line_number": 369,
+    "response": "1,3"
+  },
+  {
+    "line_number": 370,
+    "response": "1,3"
+  },
+  {
+    "line_number": 371,
+    "response": "1,4"
+  },
+  {
+    "line_number": 372,
+    "response": "1,5"
+  },
+  {
+    "line_number": 373,
+    "response": "3,5"
+  },
+  {
+    "line_number": 374,
+    "response": "1,5"
+  },
+  {
+    "line_number": 375,
+    "response": "1,3"
+  },
+  {
+    "line_number": 376,
+    "response": "3,5"
+  },
+  {
+    "line_number": 377,
+    "response": "1,5"
+  },
+  {
+    "line_number": 378,
+    "response": "3,5"
+  },
+  {
+    "line_number": 379,
+    "response": "1,5"
+  },
+  {
+    "line_number": 380,
+    "response": "3,5"
+  },
+  {
+    "line_number": 381,
+    "response": "1,5"
+  },
+  {
+    "line_number": 382,
+    "response": "1,3"
+  },
+  {
+    "line_number": 383,
+    "response": "1,3"
+  },
+  {
+    "line_number": 384,
+    "response": "1,5"
+  },
+  {
+    "line_number": 385,
+    "response": "1,3"
+  },
+  {
+    "line_number": 386,
+    "response": "3,5"
+  },
+  {
+    "line_number": 387,
+    "response": "3,5"
+  },
+  {
+    "line_number": 388,
+    "response": "3,5"
+  },
+  {
+    "line_number": 389,
+    "response": "1,5"
+  },
+  {
+    "line_number": 390,
+    "response": "1,3"
+  },
+  {
+    "line_number": 391,
+    "response": "3,5"
+  },
+  {
+    "line_number": 392,
+    "response": "1,5"
+  },
+  {
+    "line_number": 393,
+    "response": "1,5"
+  },
+  {
+    "line_number": 394,
+    "response": "1,5"
+  },
+  {
+    "line_number": 395,
+    "response": "3,5"
+  },
+  {
+    "line_number": 396,
+    "response": "1,3"
+  },
+  {
+    "line_number": 397,
+    "response": "1,3"
+  },
+  {
+    "line_number": 398,
+    "response": "1,3"
+  },
+  {
+    "line_number": 399,
+    "response": "1,3"
+  },
+  {
+    "line_number": 400,
+    "response": "1,5"
+  },
+  {
+    "line_number": 401,
+    "response": "1,3"
+  },
+  {
+    "line_number": 402,
+    "response": "1,5"
+  },
+  {
+    "line_number": 403,
+    "response": "1,5"
+  },
+  {
+    "line_number": 404,
+    "response": "1,5"
+  },
+  {
+    "line_number": 405,
+    "response": "1,5"
+  },
+  {
+    "line_number": 406,
+    "response": "1,5"
+  },
+  {
+    "line_number": 407,
+    "response": "1,5"
+  },
+  {
+    "line_number": 408,
+    "response": "1,5"
+  },
+  {
+    "line_number": 409,
+    "response": "1,5"
+  },
+  {
+    "line_number": 410,
+    "response": "1,3"
+  },
+  {
+    "line_number": 411,
+    "response": "1,5"
+  },
+  {
+    "line_number": 412,
+    "response": "1,5"
+  },
+  {
+    "line_number": 413,
+    "response": "1,5"
+  },
+  {
+    "line_number": 414,
+    "response": "1,5"
+  },
+  {
+    "line_number": 415,
+    "response": "1,5"
+  },
+  {
+    "line_number": 416,
+    "response": "1,5"
+  },
+  {
+    "line_number": 417,
+    "response": "1,5"
+  },
+  {
+    "line_number": 418,
+    "response": "1,5"
+  },
+  {
+    "line_number": 419,
+    "response": "1,3"
+  },
+  {
+    "line_number": 420,
+    "response": "1,5"
+  },
+  {
+    "line_number": 421,
+    "response": "1,3"
+  },
+  {
+    "line_number": 422,
+    "response": "1,5"
+  },
+  {
+    "line_number": 423,
+    "response": "1,3"
+  },
+  {
+    "line_number": 424,
+    "response": "1,5"
+  },
+  {
+    "line_number": 425,
+    "response": "1,5"
+  },
+  {
+    "line_number": 426,
+    "response": "1,3"
+  },
+  {
+    "line_number": 427,
+    "response": "1,3"
+  },
+  {
+    "line_number": 428,
+    "response": "1,5"
+  },
+  {
+    "line_number": 429,
+    "response": "1,5"
+  },
+  {
+    "line_number": 430,
+    "response": "1,2"
+  },
+  {
+    "line_number": 431,
+    "response": "1,5"
+  },
+  {
+    "line_number": 432,
+    "response": "1,5"
+  },
+  {
+    "line_number": 433,
+    "response": "1,5"
+  },
+  {
+    "line_number": 434,
+    "response": "1,5"
+  },
+  {
+    "line_number": 435,
+    "response": "1,5"
+  },
+  {
+    "line_number": 436,
+    "response": "1,5"
+  },
+  {
+    "line_number": 437,
+    "response": "1,5"
+  },
+  {
+    "line_number": 438,
+    "response": "1,5"
+  },
+  {
+    "line_number": 439,
+    "response": "1,5"
+  },
+  {
+    "line_number": 440,
+    "response": "1,5"
+  },
+  {
+    "line_number": 441,
+    "response": "1,5"
+  },
+  {
+    "line_number": 442,
+    "response": "1,5"
+  },
+  {
+    "line_number": 443,
+    "response": "1,5"
+  },
+  {
+    "line_number": 444,
+    "response": "1,5"
+  },
+  {
+    "line_number": 445,
+    "response": "1,5"
+  },
+  {
+    "line_number": 446,
+    "response": "1,5"
+  },
+  {
+    "line_number": 447,
+    "response": "1,2"
+  },
+  {
+    "line_number": 448,
+    "response": "1,5"
+  },
+  {
+    "line_number": 449,
+    "response": "1,5"
+  },
+  {
+    "line_number": 450,
+    "response": "1,5"
+  },
+  {
+    "line_number": 451,
+    "response": "1,5"
+  },
+  {
+    "line_number": 452,
+    "response": "1,5"
+  },
+  {
+    "line_number": 453,
+    "response": "1,5"
+  },
+  {
+    "line_number": 454,
+    "response": "1,5"
+  },
+  {
+    "line_number": 455,
+    "response": "1,5"
+  },
+  {
+    "line_number": 456,
+    "response": "1,5"
+  },
+  {
+    "line_number": 457,
+    "response": "1,5"
+  },
+  {
+    "line_number": 458,
+    "response": "1,5"
+  },
+  {
+    "line_number": 459,
+    "response": "1,5"
+  },
+  {
+    "line_number": 460,
+    "response": "1,5"
+  },
+  {
+    "line_number": 461,
+    "response": "1,5"
+  },
+  {
+    "line_number": 462,
+    "response": "1,5"
+  },
+  {
+    "line_number": 463,
+    "response": "1,5"
+  },
+  {
+    "line_number": 464,
+    "response": "1,5"
+  },
+  {
+    "line_number": 465,
+    "response": "1,5"
+  },
+  {
+    "line_number": 466,
+    "response": "1,5"
+  },
+  {
+    "line_number": 467,
+    "response": "1,5"
+  },
+  {
+    "line_number": 468,
+    "response": "1,5"
+  },
+  {
+    "line_number": 469,
+    "response": "1,5"
+  },
+  {
+    "line_number": 470,
+    "response": "1,5"
+  },
+  {
+    "line_number": 471,
+    "response": "1,5"
+  },
+  {
+    "line_number": 472,
+    "response": "1,5"
+  },
+  {
+    "line_number": 473,
+    "response": "1,5"
+  },
+  {
+    "line_number": 474,
+    "response": "1,5"
+  },
+  {
+    "line_number": 475,
+    "response": "1,5"
+  },
+  {
+    "line_number": 476,
+    "response": "1,5"
+  },
+  {
+    "line_number": 477,
+    "response": "1,5"
+  },
+  {
+    "line_number": 478,
+    "response": "1,5"
+  },
+  {
+    "line_number": 479,
+    "response": "1,5"
+  },
+  {
+    "line_number": 480,
+    "response": "1,5"
+  },
+  {
+    "line_number": 481,
+    "response": "1,5"
+  },
+  {
+    "line_number": 482,
+    "response": "1,5"
+  },
+  {
+    "line_number": 483,
+    "response": "1,5"
+  },
+  {
+    "line_number": 484,
+    "response": "1,5"
+  },
+  {
+    "line_number": 485,
+    "response": "1,5"
+  },
+  {
+    "line_number": 486,
+    "response": "1,5"
+  },
+  {
+    "line_number": 487,
+    "response": "1,5"
+  },
+  {
+    "line_number": 488,
+    "response": "1,5"
+  },
+  {
+    "line_number": 489,
+    "response": "1,5"
+  },
+  {
+    "line_number": 490,
+    "response": "1,5"
+  },
+  {
+    "line_number": 491,
+    "response": "1,5"
+  },
+  {
+    "line_number": 492,
+    "response": "1,5"
+  },
+  {
+    "line_number": 493,
+    "response": "1,5"
+  },
+  {
+    "line_number": 494,
+    "response": "1,5"
+  },
+  {
+    "line_number": 495,
+    "response": "1,3"
+  },
+  {
+    "line_number": 496,
+    "response": "1,5"
+  },
+  {
+    "line_number": 497,
+    "response": "1,5"
+  },
+  {
+    "line_number": 498,
+    "response": "1,5"
+  },
+  {
+    "line_number": 499,
+    "response": "1,3"
+  },
+  {
+    "line_number": 500,
+    "response": "1,5"
+  },
+  {
+    "line_number": 501,
+    "response": "1,5"
+  },
+  {
+    "line_number": 502,
+    "response": "1,5"
+  },
+  {
+    "line_number": 503,
+    "response": "1,5"
+  },
+  {
+    "line_number": 504,
+    "response": "1,5"
+  },
+  {
+    "line_number": 505,
+    "response": "1,5"
+  },
+  {
+    "line_number": 506,
+    "response": "1,5"
+  },
+  {
+    "line_number": 507,
+    "response": "1,5"
+  },
+  {
+    "line_number": 508,
+    "response": "1,5"
+  },
+  {
+    "line_number": 509,
+    "response": "1,5"
+  },
+  {
+    "line_number": 510,
+    "response": "1,5"
+  },
+  {
+    "line_number": 511,
+    "response": "1,5"
+  },
+  {
+    "line_number": 512,
+    "response": "1,5"
+  },
+  {
+    "line_number": 513,
+    "response": "1,5"
+  },
+  {
+    "line_number": 514,
+    "response": "1,5"
+  },
+  {
+    "line_number": 515,
+    "response": "1,5"
+  },
+  {
+    "line_number": 516,
+    "response": "1,5"
+  },
+  {
+    "line_number": 517,
+    "response": "1,5"
+  },
+  {
+    "line_number": 518,
+    "response": "1,5"
+  },
+  {
+    "line_number": 519,
+    "response": "1,5"
+  },
+  {
+    "line_number": 520,
+    "response": "1,5"
+  },
+  {
+    "line_number": 521,
+    "response": "1,5"
+  },
+  {
+    "line_number": 522,
+    "response": "1,5"
+  },
+  {
+    "line_number": 523,
+    "response": "1,5"
+  },
+  {
+    "line_number": 524,
+    "response": "1,5"
+  },
+  {
+    "line_number": 525,
+    "response": "1,5"
+  },
+  {
+    "line_number": 526,
+    "response": "1,5"
+  },
+  {
+    "line_number": 527,
+    "response": "1,5"
+  },
+  {
+    "line_number": 528,
+    "response": "3,5"
+  },
+  {
+    "line_number": 529,
+    "response": "1,5"
+  },
+  {
+    "line_number": 530,
+    "response": "1,4"
+  },
+  {
+    "line_number": 531,
+    "response": "1,5"
+  },
+  {
+    "line_number": 532,
+    "response": "1,5"
+  },
+  {
+    "line_number": 533,
+    "response": "1,5"
+  },
+  {
+    "line_number": 534,
+    "response": "1,5"
+  },
+  {
+    "line_number": 535,
+    "response": "1,3"
+  },
+  {
+    "line_number": 536,
+    "response": "1,5"
+  },
+  {
+    "line_number": 537,
+    "response": "1,5"
+  },
+  {
+    "line_number": 538,
+    "response": "1,5"
+  },
+  {
+    "line_number": 539,
+    "response": "1,5"
+  },
+  {
+    "line_number": 540,
+    "response": "1,5"
+  },
+  {
+    "line_number": 541,
+    "response": "1,5"
+  },
+  {
+    "line_number": 542,
+    "response": "1,5"
+  },
+  {
+    "line_number": 543,
+    "response": "1,5"
+  },
+  {
+    "line_number": 544,
+    "response": "1,5"
+  },
+  {
+    "line_number": 545,
+    "response": "1,5"
+  },
+  {
+    "line_number": 546,
+    "response": "1,5"
+  },
+  {
+    "line_number": 547,
+    "response": "1,5"
+  },
+  {
+    "line_number": 548,
+    "response": "1,5"
+  },
+  {
+    "line_number": 549,
+    "response": "1,5"
+  },
+  {
+    "line_number": 550,
+    "response": "1,5"
+  },
+  {
+    "line_number": 551,
+    "response": "1,5"
+  },
+  {
+    "line_number": 552,
+    "response": "1,5"
+  },
+  {
+    "line_number": 553,
+    "response": "1,5"
+  },
+  {
+    "line_number": 554,
+    "response": "1,5"
+  },
+  {
+    "line_number": 555,
+    "response": "1,3"
+  },
+  {
+    "line_number": 556,
+    "response": "1,5"
+  },
+  {
+    "line_number": 557,
+    "response": "1,5"
+  },
+  {
+    "line_number": 558,
+    "response": "1,5"
+  },
+  {
+    "line_number": 559,
+    "response": "1,5"
+  },
+  {
+    "line_number": 560,
+    "response": "1,5"
+  },
+  {
+    "line_number": 561,
+    "response": "1,5"
+  },
+  {
+    "line_number": 562,
+    "response": "1,5"
+  },
+  {
+    "line_number": 563,
+    "response": "1,5"
+  },
+  {
+    "line_number": 564,
+    "response": "1,5"
+  },
+  {
+    "line_number": 565,
+    "response": "1,5"
+  },
+  {
+    "line_number": 566,
+    "response": "1,5"
+  },
+  {
+    "line_number": 567,
+    "response": "1,3"
+  },
+  {
+    "line_number": 568,
+    "response": "1,5"
+  },
+  {
+    "line_number": 569,
+    "response": "1,5"
+  },
+  {
+    "line_number": 570,
+    "response": "1,5"
+  },
+  {
+    "line_number": 571,
+    "response": "1,5"
+  },
+  {
+    "line_number": 572,
+    "response": "1,3"
+  },
+  {
+    "line_number": 573,
+    "response": "1,5"
+  },
+  {
+    "line_number": 574,
+    "response": "1,5"
+  },
+  {
+    "line_number": 575,
+    "response": "1,5"
+  },
+  {
+    "line_number": 576,
+    "response": "1,5"
+  },
+  {
+    "line_number": 577,
+    "response": "1,5"
+  },
+  {
+    "line_number": 578,
+    "response": "1,3"
+  },
+  {
+    "line_number": 579,
+    "response": "1,5"
+  },
+  {
+    "line_number": 580,
+    "response": "3,5"
+  },
+  {
+    "line_number": 581,
+    "response": "1,5"
+  },
+  {
+    "line_number": 582,
+    "response": "1,5"
+  },
+  {
+    "line_number": 583,
+    "response": "1,5"
+  },
+  {
+    "line_number": 584,
+    "response": "1,5"
+  },
+  {
+    "line_number": 585,
+    "response": "1,5"
+  },
+  {
+    "line_number": 586,
+    "response": "1,5"
+  },
+  {
+    "line_number": 587,
+    "response": "1,5"
+  },
+  {
+    "line_number": 588,
+    "response": "1,5"
+  },
+  {
+    "line_number": 589,
+    "response": "1,5"
+  },
+  {
+    "line_number": 590,
+    "response": "1,5"
+  },
+  {
+    "line_number": 591,
+    "response": "1,5"
+  },
+  {
+    "line_number": 592,
+    "response": "1,5"
+  },
+  {
+    "line_number": 593,
+    "response": "1,5"
+  },
+  {
+    "line_number": 594,
+    "response": "1,5"
+  },
+  {
+    "line_number": 595,
+    "response": "1,5"
+  },
+  {
+    "line_number": 596,
+    "response": "1,5"
+  },
+  {
+    "line_number": 597,
+    "response": "1,5"
+  },
+  {
+    "line_number": 598,
+    "response": "1,5"
+  },
+  {
+    "line_number": 599,
+    "response": "1,3"
+  },
+  {
+    "line_number": 600,
+    "response": "1,3"
+  },
+  {
+    "gt.tsv": 0.9133333333333333
+  },
+  {
+    "confuse.tsv": 0.0033333333333333335
+  },
+  {
+    "qwen.tsv": 0.28
+  },
+  {
+    "glm.tsv": 0.04833333333333333
+  },
+  {
+    "ours.tsv": 0.755
+  }
+]
